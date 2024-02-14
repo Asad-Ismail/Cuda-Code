@@ -1,2 +1,3 @@
 # Cuda-Code
-Cuda code repository
+
+Sample of cuda code for learning and for useful stuff
